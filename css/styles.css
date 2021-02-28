@@ -149,4 +149,37 @@ body {
   /*color: rgba(255, 255, 255, 0.6);*/
 }
 
-/* ===============END FOOTER==============*/
+/* ===============PORTFOLIO==============*/
+
+/* ===============BUTTONS==============*/
+.buttons-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+  background-color: #f5f4fa;
+  cursor: pointer;
+}
+.buttons-link:hover,
+.buttons-link:focus {
+  color: #ffffff;
+  background-color: var(--btm-color);
+}
+
+/* ===============END BUTTONS==============*/
+
+/* ===============CATEGORY==============*/
+.category-title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
+}
+.category-name {
+  font-size: 16px;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+/* ===============END CATEGORY==============*/
